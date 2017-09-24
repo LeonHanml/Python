@@ -77,18 +77,19 @@ try:
     keys = r.keys("*")
 
     print r.dbsize()
-
+    print r.lrange("pv",0,-1)
     # print r.
     # print len(keys)
-    # for key in keys:
+    for key in keys:
         # if("11:tt5" in key):
         # if(":2017-09-10" in key):
         # if(key.endswith("11:tt5")):
-        #     print str(key)
-        #     print r.get(str(key))
-    print(r.hgetall("pv_order"))
+            print str(key)
+
+    # print(r.hgetall("pv_order"))
     print ("---------------------")
-    print(r.hgetall("pv_order"))
+    # print(r.hgetall("pv_order"))
+    # r.flushdb()
         # r.flushdb()
         #     r.delete(key)
 

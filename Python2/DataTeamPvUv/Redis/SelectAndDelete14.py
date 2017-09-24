@@ -84,10 +84,13 @@ try:
     # print len(keys)
     for key in keys:
         # if("11:tt5" in key):
-        # if(":2017-09-10" in key):
+        if((":2017-09-14" in key)):
         # if(key.endswith("11:tt5")):
             print str(key)
-            # r.delete(key)
-
+        #     r.delete(key)
+            pass
+        else:
+            print  str(key)
+            pass
 except:
     print traceback.format_exc()

@@ -39,7 +39,7 @@ def redisConn(db=11):
     return r
 '''
 Redis 11：shopflow_total_pvuv   生产库
-Redis 12：shopflow_100000008_pvuv   测试库
+Redis 12：goodsstore    测试库
 Redis 13：shopflow_activity_pvuv    活动库  测试库
 Redis 14：shopflow_activity_pvuv    正式库 生产库
 '''

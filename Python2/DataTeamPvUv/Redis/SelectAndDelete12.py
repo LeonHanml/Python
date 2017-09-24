@@ -50,7 +50,7 @@ try:
     # r.get('test')
 
     # print int(r.scard("2017-08-24:ttset"))
-    print r.hget("PV:2017-09-11:tt5","10000001")
+    # print r.hget("PV:2017-09-11:tt5","10000001")
     # print r.get("shopflowUvByHourState")
 
     # sset = r.smembers("2017-09-07:ttset")
@@ -65,7 +65,7 @@ try:
 
     # r.delete("RC:2017-08-24:10000001")
     # r.delete("ttMapTest")
-    ttmaptest = r.hgetall("ttMap")
+    # ttmaptest = r.hgetall("ttMap")
 
     # print ttmaptest.values()
     '''
@@ -79,13 +79,13 @@ try:
     # print ttmaptest
     keys = r.keys("*")
 
-    print r.dbsize()
+    # print r.dbsize()
     # print r.
     # print len(keys)
     for key in keys:
         # if("11:tt5" in key):
         # if(":2017-09-10" in key):
-        if(key.endswith("11:tt5")):
+        # if(key.endswith("11:tt5")):-
             print str(key)
             # r.delete(key)
 
