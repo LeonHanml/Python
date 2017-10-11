@@ -31,7 +31,7 @@ for i in range(len(data_best_predict)):
         data_best_predict_dict[key].append(value)
 
 
-best_file = open("D:\\www\data\\Weibo Data\\Weibo Data\\weibo_train_data(new)\\best_uid_fcl_predict.txt","w",encoding="utf8")
+best_file = open("D:\\www\data\\Weibo Data\\Weibo Data\\weibo_predict_data(new)\\best_uid_fcl_predict.txt","w",encoding="utf8")
 # data_test1 = data_test[:50000]
 for i in range(data_test.size-1):
     uid = data_test.ix[i][0]

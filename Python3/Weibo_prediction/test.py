@@ -35,3 +35,50 @@ with open("") as f:
         i+=1
 #     print( user_counts)
 '''
+'''
+count1 = 0
+count0 = 0
+with open(r"D:\\www\\data\\Weibo Data\\Weibo Data\\weibo_predict_data(new)\\weibo_predict_data.txt",'r',encoding='utf-8') as f:
+    while(True):
+        line = f.readline()
+        if not line:
+            break
+            pass
+        array = line.split("\t")
+        #
+        if len(array) == 4:
+            count1 +=1
+
+        else:
+            count0 +=1
+            print(array)
+            print(len(array))
+        # if count1 ==10000:
+        #     break
+
+
+print(count1)
+print(count0)
+'''
+'''
+data_test_list = []
+with open(r"D:\\www\\data\\Weibo Data\\Weibo Data\\weibo_predict_data(new)\\weibo_predict_data.txt", 'r',
+          encoding='utf-8') as f:
+    while (True):
+        line = f.readline()
+        if not line:
+            break
+            pass
+        array = line.split("\t")
+        data_test_list.append([array[0], array[1]])
+
+
+        print(data_test_list)
+
+        break
+        '''
+dt = {}
+dt["a"] =set()
+dt["a"].add(1)
+dt["a"].add(1)
+print(dt)

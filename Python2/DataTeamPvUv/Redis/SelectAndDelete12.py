@@ -87,6 +87,7 @@ try:
         # if(":2017-09-10" in key):
         # if(key.endswith("11:tt5")):-
             print str(key)
+            print r.get(key)
             # r.delete(key)
 
 except:
