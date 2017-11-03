@@ -26,7 +26,7 @@ def time():
     todayStamp = time.mktime(todayTime)
 
 
-def redisConn(db=12):
+def redisConn(db=15):
     host = '10.250.100.20'
     port = 6379
     redisTimeout = 30000
@@ -41,9 +41,9 @@ def redisConn(db=12):
 
 try:
     r = redisConn()
-    import sys
-    import chardet
-    reload(sys)
+    # import sys
+    # import chardet
+    # reload(sys)
     # sys.getdefaultencoding()
 
     # r.set('test', '我是中文字符串')
@@ -51,7 +51,7 @@ try:
 
     # print int(r.scard("2017-08-24:ttset"))
     # print r.hget("PV:2017-09-11:tt5","10000001")
-    # print r.get("shopflowUvByHourState")
+    print r.get("shopflowUvByHourState")
 
     # sset = r.smembers("2017-09-07:ttset")
     # i=0
@@ -77,37 +77,32 @@ try:
     '''
     #
     # print ttmaptest
-    import re
+    keys = r.keys("*")
 
-    # keys = r.keys(pattern='*2017-11-01*')
-    # keys = r.keys("*")
-    # print len(keys)
-    goodsstore =  r.hgetall("goodsstore")
-    # print goodsstore
-    # for i in goodsstore:
-    #     r.hdel("goodsstore",i)
-    listgoood = []
-    for i in goodsstore:
-        if i=='95414':
-            print i
-        # listgoood.append(i)
-            print goodsstore[i]
-    # listgoood.sort()
-    # print len(listgoood)
-    # setgood = set()
-    # for j in listgoood:
-    #     setgood.add( j[17:22])
-    # print len(setgood)
     print r.dbsize()
-    # print r.
+    # print r.hget("PV:2017-10-26:95692:10000001","10000001")
     # print len(keys)
-    # for key in keys:
-        # if("11:tt5" in key):
-        # if(":2017-09-10" in key):
-        # if(key.endswith("11:tt5")):-
-        #     print str(key)
-        #     print r.get(key)
-        #     r.delete(key)
+    # r.delete("shopflowUvByHourState")
+    # r.flushdb()
+    # r.set("shopflowUvByHourState","1508428800000")
+    for key in keys:
+        # if("PV" in key ):
+        # if((":2017-10-23" in key) |(":2017-10-24" in key) |(":2017-10-25" in key) ):
+        # if(key.endswith("11:tt5")):
+        #     print r.hget(key,"10000001")
+            # print  str(r.get(key))
+            # r.delete(key)
+        if("current" in key ):
+        # if((":2017-10-20" in key) |(":2017-10-21" in key) |(":2017-10-22" in key) ):
+    # if(key.endswith("11:tt5")):
+            print str(key)
+            print  str(r.get(key))
+        #     pass
+        # else:
 
+        #     pass
+
+    # print r.hgetall("all pspu set ")
+    # print r.smembers("all pspu")
 except:
     print traceback.format_exc()

@@ -1,38 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete12.py" line="97" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="689990ca-c676-447a-a6e7-b6ec5e3050b8" name="Default" comment="update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Test/Testa.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Test/Testb.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/Get_uid_fcl_time_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/Kmeans.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/KmeansOnTotalcount.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_predict2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_train2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/Precison_caculte.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearn/Classification_All.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearn/Cross_validation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearn/Metrics.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearn/Metrics_classification_report.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearn/Preprocessing_StandardScaler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearn/Svm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearn/cluster_KMeans.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearn/ensemble_RandomForestRegressor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearn/linear_model_LogisticRegression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearn/linear_model_SGDClassifier.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearn/model_selection_train_test_split.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python3/Titanic/Titanic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python3/Weibo_prediction/Data_plot.ipynb" afterPath="" />
+    <list default="true" id="689990ca-c676-447a-a6e7-b6ec5e3050b8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/风控算法大赛解决方案.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/风控算法大赛解决方案.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete15.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/ensemble/blend_ensemble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/ensemble/cal_mic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/ensemble/ensemble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/CategoryFeatureProcess.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/CityDiscrete.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/CityFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/CombineFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/EnsembleFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/ExperimentDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/FeatureSelect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/FeatureTransform.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/Importance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/InfoGainEval.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/MergeFeature.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/NullDiscrete.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/OneHot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/SelectFeature.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/UseInfoGain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/city_feature.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/jingch/FeatureProcess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/jingch/MainClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/jingch/MergeTool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/jingch/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/jingch/UserLogInfoFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/jingch/UserUpdateInfoFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/jw.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/null.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/rank.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_select/avg_featurescore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_select/sort_feature_using_xgb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/lr/lr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/proccess/CombineSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/proccess/NThreadMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/proccess/NThreadRNB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/proccess/Split.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/proccess/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/sample/MY0.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/sample/MY1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/svm/avg_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/svm/avg_val.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/svm/svm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/util/Csv2LibsvmTool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/util/Evaluation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/util/Normalizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/util/Score.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/util/Similarity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/util/Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/util/cal_auc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/util/plot_feature_importance.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/util/visualize_dataset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/util/visualize_null.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/xgb/avg_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/xgb/bagging_xgb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/xgb/graphlab_xgboost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/xgb/single_xgb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/CountVectorizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/Jieba.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/NLTK.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/doc2vec.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/feature_extraction.text.CountVectorizer.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/jieba.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/wepe/evaluation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/wepe/genUidStat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/wepe/predict_by_search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/wepe/predict_with_fixed_value.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/wepe/runTime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearning/naive_bayes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/sklearning/runTime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_Learn/null.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/ensemble/blend_ensemble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/ensemble/cal_mic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/ensemble/ensemble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/CategoryFeatureProcess.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/CityDiscrete.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/CityFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/CombineFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/EnsembleFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/ExperimentDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/FeatureSelect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/FeatureTransform.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/Importance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/InfoGainEval.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/MergeFeature.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/NullDiscrete.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/OneHot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/SelectFeature.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/UseInfoGain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/city_feature.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jingch/FeatureProcess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jingch/MainClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jingch/MergeTool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jingch/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jingch/UserLogInfoFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jingch/UserUpdateInfoFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jw.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/null.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/rank.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_select/avg_featurescore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_select/sort_feature_using_xgb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/lr/lr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/proccess/CombineSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/proccess/NThreadMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/proccess/NThreadRNB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/proccess/Split.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/proccess/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/sample/MY0.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/sample/MY1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/svm/avg_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/svm/avg_val.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/svm/svm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util/Csv2LibsvmTool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util/Evaluation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util/Normalizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util/Score.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util/Similarity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util/Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util/cal_auc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util/plot_feature_importance.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util/visualize_dataset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util/visualize_null.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/xgb/avg_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/xgb/bagging_xgb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/xgb/graphlab_xgboost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/xgb/single_xgb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/说明" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete12.py" afterPath="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete12.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_predict.py" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_predict.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python3/Weibo_prediction/Test_plot.ipynb" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/Test_plot.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python3/Weibo_prediction/Waste/Bryan_dataframe.ipynb" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/Waste/Bryan_dataframe.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python3/Weibo_prediction/Waste/Data_plot.ipynb" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/Waste/Data_plot.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python3/Weibo_prediction/test.py" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/Titanic/Titanic.ipynb" afterPath="$PROJECT_DIR$/Python3/Titanic/Titanic_hanxiaoyang.ipynb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/Titanic/test.py" afterPath="$PROJECT_DIR$/Python3/Titanic/Myself.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/Weibo_prediction/tool.py" afterPath="$PROJECT_DIR$/Python3/Weibo_prediction/Tool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python3/Test/__init__.py" afterPath="$PROJECT_DIR$/Python3/Test/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/sklearn/Classification_All.py" afterPath="$PROJECT_DIR$/Python3/sklearning/Classification_All.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/sklearn/Cross_validation.py" afterPath="$PROJECT_DIR$/Python3/sklearning/Cross_validation.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/sklearn/Metrics.py" afterPath="$PROJECT_DIR$/Python3/sklearning/Metrics.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/sklearn/Metrics_classification_report.py" afterPath="$PROJECT_DIR$/Python3/sklearning/Metrics_classification_report.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/sklearn/Preprocessing_StandardScaler.py" afterPath="$PROJECT_DIR$/Python3/sklearning/Preprocessing_StandardScaler.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/sklearn/Svm.py" afterPath="$PROJECT_DIR$/Python3/sklearning/Svm.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/sklearn/cluster_KMeans.py" afterPath="$PROJECT_DIR$/Python3/sklearning/cluster_KMeans.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/sklearn/ensemble_RandomForestRegressor.py" afterPath="$PROJECT_DIR$/Python3/sklearning/ensemble_RandomForestRegressor.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/sklearn/linear_model_LogisticRegression.py" afterPath="$PROJECT_DIR$/Python3/sklearning/linear_model_LogisticRegression.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/sklearn/linear_model_SGDClassifier.py" afterPath="$PROJECT_DIR$/Python3/sklearning/linear_model_SGDClassifier.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python3/sklearn/model_selection_train_test_split.py" afterPath="$PROJECT_DIR$/Python3/sklearning/model_selection_train_test_split.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +166,9 @@
     <SUITE FILE_PATH="coverage/Python$Data_plot.coverage" NAME="Data_plot Coverage Results" MODIFIED="1505717043106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Weibo_prediction" />
     <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test Coverage Results" MODIFIED="1506310512406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Weibo_prediction" />
     <SUITE FILE_PATH="coverage/Python$Precison_caculte.coverage" NAME="Precison_caculte Coverage Results" MODIFIED="1506244793487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Weibo_prediction" />
+    <SUITE FILE_PATH="coverage/Python$naive_bayes.coverage" NAME="naive_bayes Coverage Results" MODIFIED="1509687717374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/sklearn" />
     <SUITE FILE_PATH="coverage/Python$Leon_weibo_predict2.coverage" NAME="Leon_weibo_predict2 Coverage Results" MODIFIED="1506398821820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Weibo_prediction" />
+    <SUITE FILE_PATH="coverage/Python$predict_by_search.coverage" NAME="predict_by_search Coverage Results" MODIFIED="1509089536918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Weibo_prediction/wepe" />
     <SUITE FILE_PATH="coverage/Python$Bryan_dataframe.coverage" NAME="Bryan_dataframe Coverage Results" MODIFIED="1505398335772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Weibo_prediction" />
     <SUITE FILE_PATH="coverage/Python$Bryan.coverage" NAME="Bryan Coverage Results" MODIFIED="1506072486036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Weibo_prediction" />
     <SUITE FILE_PATH="coverage/Python$Leon_weibo.coverage" NAME="Leon_weibo Coverage Results" MODIFIED="1506175392275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Weibo_prediction" />
@@ -60,11 +178,15 @@
     <SUITE FILE_PATH="coverage/Python$Leon_weibo_predict_threading.coverage" NAME="Leon_weibo_predict_threading Coverage Results" MODIFIED="1506239874627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Weibo_prediction" />
     <SUITE FILE_PATH="coverage/Python$SelectAndDelete.coverage" NAME="SelectAndDelete Coverage Results" MODIFIED="1505182435254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis" />
     <SUITE FILE_PATH="coverage/Python$Leon_weibo_predict.coverage" NAME="Leon_weibo_predict Coverage Results" MODIFIED="1506232133546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Weibo_prediction" />
-    <SUITE FILE_PATH="coverage/Python$Testb.coverage" NAME="Testb Coverage Results" MODIFIED="1506425919676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Test" />
+    <SUITE FILE_PATH="coverage/Python$Testb.coverage" NAME="Testb Coverage Results" MODIFIED="1507888991324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Test" />
+    <SUITE FILE_PATH="coverage/Python$SelectAndDelete16.coverage" NAME="SelectAndDelete16 Coverage Results" MODIFIED="1508311616288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis" />
     <SUITE FILE_PATH="coverage/Python$SelectAndDelete13.coverage" NAME="SelectAndDelete13 Coverage Results" MODIFIED="1505273261153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis" />
-    <SUITE FILE_PATH="coverage/Python$SelectAndDelete12.coverage" NAME="SelectAndDelete12 Coverage Results" MODIFIED="1506410716605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis" />
+    <SUITE FILE_PATH="coverage/Python$SelectAndDelete12.coverage" NAME="SelectAndDelete12 Coverage Results" MODIFIED="1509622728792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis" />
     <SUITE FILE_PATH="coverage/Python$Insertmysqltt.coverage" NAME="Insertmysqltt Coverage Results" MODIFIED="1504689398061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python2/DataTeamPvUv/Mysql" />
+    <SUITE FILE_PATH="coverage/Python$SelectAndDelete15.coverage" NAME="SelectAndDelete15 Coverage Results" MODIFIED="1509549753405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis" />
     <SUITE FILE_PATH="coverage/Python$cluster_KMeans.coverage" NAME="cluster_KMeans Coverage Results" MODIFIED="1506334660724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/sklearn" />
+    <SUITE FILE_PATH="coverage/Python$plot_feature_importance.coverage" NAME="plot_feature_importance Coverage Results" MODIFIED="1508915290433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util" />
+    <SUITE FILE_PATH="coverage/Python$jieba.coverage" NAME="jieba Coverage Results" MODIFIED="1509623764248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/BeginTextMiningWithPython" />
     <SUITE FILE_PATH="coverage/Python$GraphFromMysql.coverage" NAME="GraphFromMysql Coverage Results" MODIFIED="1504687293899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python2/DataTeamPvUv/Mysql" />
     <SUITE FILE_PATH="coverage/Python$Leon_weibo_train2.coverage" NAME="Leon_weibo_train2 Coverage Results" MODIFIED="1506311407465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Weibo_prediction" />
     <SUITE FILE_PATH="coverage/Python$ThreadingLearn.coverage" NAME="ThreadingLearn Coverage Results" MODIFIED="1506153670892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3/Python Cookbook" />
@@ -74,10 +196,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Metrics.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/sklearn/Metrics.py">
+        <entry file="file://$PROJECT_DIR$/Python3/sklearning/Metrics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="620">
+              <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="65" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -85,8 +207,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/Test/__init__.py">
+      <file leaf-file-name="Jieba.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python3/BeginTextMiningWithPython/Jieba.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="naive_bayes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python3/sklearning/naive_bayes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="naive_bayes.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/sklearn/naive_bayes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="34" column="23" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Metrics_classification_report.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python3/sklearning/Metrics_classification_report.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -95,89 +248,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Classification_All.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/sklearn/Classification_All.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="model_selection_train_test_split.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python3/sklearn/model_selection_train_test_split.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="32" column="69" lean-forward="true" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Metrics_classification_report.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/sklearn/Metrics_classification_report.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Svm.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/sklearn/Svm.py">
+      <file leaf-file-name="runTime.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/wepe/runTime.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#58#91#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="classification.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/sklearn/metrics/classification.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26440">
-              <caret line="1341" column="55" lean-forward="false" selection-start-line="1340" selection-start-column="26" selection-end-line="1341" selection-end-column="55" />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Testb.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/Test/Testb.py">
+      <file leaf-file-name="runTime.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python3/sklearning/runTime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="320">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="linear_model_LogisticRegression.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/sklearn/linear_model_LogisticRegression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-              <folding>
-                <element signature="e#298#317#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="linear_model_SGDClassifier.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/sklearn/linear_model_SGDClassifier.py">
+        <entry file="file://$PROJECT_DIR$/Python3/sklearning/linear_model_SGDClassifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predict_by_search.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/wepe/predict_by_search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+              <folding>
+                <element signature="e#799#824#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jieba.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python3/BeginTextMiningWithPython/jieba.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <folding>
+                <element signature="e#16#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -201,6 +322,10 @@
       <find>value_counts</find>
       <find>print</find>
       <find>linear_model</find>
+      <find>currentLogTime</find>
+      <find>curr</find>
+      <find>fit</find>
+      <find>fit(</find>
       <find>metrics</find>
     </findStrings>
     <replaceStrings>
@@ -218,28 +343,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python3/Python Cookbook/pandas.py" />
-        <option value="$PROJECT_DIR$/Python3/Python Cookbook/pandas_learn.py" />
-        <option value="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/RedisDelete.py" />
-        <option value="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete.py" />
-        <option value="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete13.py" />
-        <option value="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete14.py" />
-        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Data_plot.py" />
-        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Data_plot.ipynb" />
-        <option value="$PROJECT_DIR$/Python3/Test/MatplotlibLearn.py" />
-        <option value="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete11.py" />
-        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Bryan.py" />
-        <option value="$PROJECT_DIR$/Python3/Test/DataFrame.py" />
-        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Bryan_dataframe.py" />
-        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo.py" />
-        <option value="$PROJECT_DIR$/Python3/Titanic/TitanicPlotTest.py" />
-        <option value="$PROJECT_DIR$/Python3/Python Cookbook/ThreadingLearn.py" />
-        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_predict_threading.py" />
-        <option value="$PROJECT_DIR$/Python3/Python Cookbook/pandas_learn.ipynb" />
-        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Bryan_dataframe.ipynb" />
-        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Precison_caculte.py" />
-        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_predict.py" />
-        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Test_plot.ipynb" />
         <option value="$PROJECT_DIR$/Python3/Weibo_prediction/test.py" />
         <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_train2.py" />
         <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Get_uid_fcl_time_file.py" />
@@ -256,19 +359,41 @@
         <option value="$PROJECT_DIR$/Python3/sklearn/model_selection_train_test_split.py" />
         <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Tool.py" />
         <option value="$PROJECT_DIR$/Python3/sklearn/Preprocessing_StandardScaler.py" />
-        <option value="$PROJECT_DIR$/Python3/sklearn/Metrics.py" />
         <option value="$PROJECT_DIR$/Python3/sklearn/cluster_KMeans.py" />
         <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Kmeans.ipynb" />
         <option value="$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_predict2.py" />
-        <option value="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete12.py" />
         <option value="$PROJECT_DIR$/Python3/Test/Testa.py" />
         <option value="$PROJECT_DIR$/Python3/Test/Testb.py" />
         <option value="$PROJECT_DIR$/Python3/sklearn/linear_model_LogisticRegression.py" />
         <option value="$PROJECT_DIR$/Python3/sklearn/linear_model_SGDClassfier.py" />
         <option value="$PROJECT_DIR$/Python3/sklearn/Metrics_classification_report.py" />
         <option value="$PROJECT_DIR$/Python3/sklearn/Svm.py" />
-        <option value="$PROJECT_DIR$/Python3/Test/__init__.py" />
         <option value="$PROJECT_DIR$/Python3/sklearn/Classification_All.py" />
+        <option value="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/CountVectorizer.py" />
+        <option value="$PROJECT_DIR$/Python3/Test/__init__.py" />
+        <option value="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/feature_extraction.text.CountVectorizer.ipynb" />
+        <option value="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete16.py" />
+        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/wepe/runTime.py" />
+        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/wepe/predict_by_search.py" />
+        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/wepe/predict_with_fixed_value.py" />
+        <option value="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/lr/lr.py" />
+        <option value="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/说明" />
+        <option value="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jw.py" />
+        <option value="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/CategoryFeatureProcess.py" />
+        <option value="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/SelectFeature.py" />
+        <option value="$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_select/sort_feature_using_xgb.py" />
+        <option value="$PROJECT_DIR$/Python3/wepon/PPD_Learn/null.ipynb" />
+        <option value="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/doc2vec.ipynb" />
+        <option value="$PROJECT_DIR$/Python3/Weibo_prediction/wepe/genUidStat.py" />
+        <option value="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete15.py" />
+        <option value="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/NLTK.ipynb" />
+        <option value="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete12.py" />
+        <option value="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/jieba.py" />
+        <option value="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/Jieba.ipynb" />
+        <option value="$PROJECT_DIR$/Python3/sklearn/naive)_bayes.py" />
+        <option value="$PROJECT_DIR$/Python3/sklearn/Metrics.py" />
+        <option value="$PROJECT_DIR$/Python3/sklearn/naive_bayes.py" />
+        <option value="$PROJECT_DIR$/Python3/sklearning/naive_bayes.py" />
       </list>
     </option>
   </component>
@@ -293,7 +418,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -312,6 +437,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -320,16 +447,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -362,18 +479,278 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
+              <option name="myItemId" value="wepon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PPD_RiskControlCompetition-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wepon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PPD_RiskControlCompetition-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feature_select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wepon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PPD_Learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo_prediction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo_prediction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wepe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sklearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CreateDataDic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeginTextMiningWithPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PPD_RiskControlCompetition-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PPD_RiskControlCompetition-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xgb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PPD_RiskControlCompetition-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proccess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataTeamPvUv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataTeamPvUv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ipnb.configuration.IpnbConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python3Shell" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -387,11 +764,11 @@
       <recent name="D:\www\IdeaProject\Python\Python3\Weibo_prediction\Waste" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\www\IdeaProject\Python\Python3\Test" />
-      <recent name="D:\www\IdeaProject\Python\Python3\Weibo_prediction" />
-      <recent name="D:\www\IdeaProject\Python\Python3\Python Cookbook" />
+      <recent name="D:\www\IdeaProject\Python\Python3\sklearn" />
+      <recent name="D:\www\IdeaProject\Python\Python3\wepon" />
+      <recent name="D:\www\IdeaProject\Python\Python3\Weibo_prediction\wepe" />
       <recent name="D:\www\IdeaProject\Python\Python2\DataTeamPvUv\Redis" />
-      <recent name="D:\www\IdeaProject\Python\Python2\DataTeamPvUv\Hankcs" />
+      <recent name="D:\www\IdeaProject\Python\Python2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -406,45 +783,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Testb">
-    <configuration default="false" name="Leon_weibo_predict2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3/Weibo_prediction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python3" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_predict2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="cluster_KMeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3/sklearn" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python3" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3/sklearn/cluster_KMeans.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.naive_bayes">
     <configuration default="false" name="SelectAndDelete12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -464,39 +803,77 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Testa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="SelectAndDelete15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3/Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python3" />
+      <module name="Python2" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3/Test/Testa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Testb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="predict_by_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3/Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3/Weibo_prediction/wepe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3/Test/Testb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3/Weibo_prediction/wepe/predict_by_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="jieba" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3/BeginTextMiningWithPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3/BeginTextMiningWithPython/jieba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="naive_bayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3/sklearn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3/sklearn/naive_bayes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -999,19 +1376,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Leon_weibo_predict2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.cluster_KMeans" />
-      <item index="2" class="java.lang.String" itemvalue="Python.SelectAndDelete12" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Testa" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Testb" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SelectAndDelete12" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SelectAndDelete15" />
+      <item index="2" class="java.lang.String" itemvalue="Python.predict_by_search" />
+      <item index="3" class="java.lang.String" itemvalue="Python.jieba" />
+      <item index="4" class="java.lang.String" itemvalue="Python.naive_bayes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Testb" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Testa" />
+        <item index="0" class="java.lang.String" itemvalue="Python.naive_bayes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.jieba" />
         <item index="2" class="java.lang.String" itemvalue="Python.SelectAndDelete12" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Leon_weibo_predict2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.cluster_KMeans" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SelectAndDelete15" />
+        <item index="4" class="java.lang.String" itemvalue="Python.predict_by_search" />
       </list>
     </recent_temporary>
   </component>
@@ -1022,6 +1399,9 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1043,7 +1423,10 @@
       <workItem from="1506168520076" duration="29931000" />
       <workItem from="1506306971144" duration="29181000" />
       <workItem from="1506407259844" duration="11254000" />
-      <workItem from="1507688818570" duration="1592000" />
+      <workItem from="1507688818570" duration="6156000" />
+      <workItem from="1507787455203" duration="39125000" />
+      <workItem from="1508755564974" duration="77396000" />
+      <workItem from="1509691045584" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="add 多个 redis db 操作&#10;添加微博预测">
       <created>1505267979852</created>
@@ -1066,11 +1449,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506240122315</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1507700777435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1507700777435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218405000" />
+    <option name="totallyTimeSpent" value="339515000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1087,29 +1477,55 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23986487" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2286036" sideWeight="0.5032051" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4436937" sideWeight="0.49679488" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4481982" sideWeight="0.49786323" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42454955" sideWeight="0.49786323" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22542734" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21955128" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498096" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12126068" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1632883" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08445946" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08445946" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23986487" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3629124" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28603604" sideWeight="0.49786323" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8131868" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12126068" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1632883" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -1125,7 +1541,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="25" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python3/sklearning/naive_bayes.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="27" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1134,316 +1557,340 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python3/Python Cookbook/pandas_learn.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Python Cookbook/Thread">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Python Cookbook/ThreadingLearn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Bryan_dataframe.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Data_plot.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Test_plot.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Precison_caculte.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="77" column="14" lean-forward="false" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_predict_threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Waste/Data_plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="65" column="96" lean-forward="false" selection-start-line="65" selection-start-column="96" selection-end-line="65" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="38" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Waste/Bryan_dataframe.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Get_uid_fcl_time_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Waste/Data_plot.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Titanic/Titanic_hanxiaoyang.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Titanic/Titanic.py" />
-    <entry file="file://$PROJECT_DIR$/Python3/Titanic/TitanicPlot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/sklearn/ensemble_RandomForestRegressor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Titanic/TitanicFixData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="140" column="6" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="152" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Titanic/Myself.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="65" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/sklearn/cross_validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/sklearn/__check_build/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/sklearn-0.0-py3.6.egg-info/dependency_links.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/sklearn-0.0-py3.6.egg-info/top_level.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/sklearn-0.0-py3.6.egg-info/SOURCES.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/sklearn-0.0-py3.6.egg-info/requires.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/sklearn-0.0-py3.6.egg-info/installed-files.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/easy_install.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/easy-install.pth">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Bryan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3580">
-          <caret line="201" column="101" lean-forward="false" selection-start-line="201" selection-start-column="101" selection-end-line="201" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/sklearn/cluster_KMeans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1220">
-          <caret line="62" column="10" lean-forward="false" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#34#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_train2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/sklearn/Cross_validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="92" lean-forward="false" selection-start-line="12" selection-start-column="92" selection-end-line="12" selection-end-column="92" />
-          <folding>
-            <element signature="e#0#36#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/sklearn/Preprocessing_StandardScaler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Tool.py">
+    <entry file="file://$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/rank.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="e#183#233#0" expanded="false" />
-            <element signature="e#896#1010#0" expanded="false" />
-          </folding>
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/KmeansOnTotalcount.py">
+    <entry file="file://$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/SelectFeature.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        <state relative-caret-position="300">
+          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_engineering/UseInfoGain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1565">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_select/avg_featurescore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete16.py" />
+    <entry file="file://$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/feature_select/sort_feature_using_xgb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="92" column="52" lean-forward="false" selection-start-line="92" selection-start-column="52" selection-end-line="92" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files (x86)/Python27/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="135" column="8" lean-forward="false" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="652" column="8" lean-forward="false" selection-start-line="652" selection-start-column="8" selection-end-line="652" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/lr/lr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/null.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/util/plot_feature_importance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Kmeans.ipynb">
+    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="4802" column="57" lean-forward="true" selection-start-line="4802" selection-start-column="57" selection-end-line="4802" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jingch/FeatureProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#6821#6822#0" expanded="false" />
+            <element signature="e#6873#6874#0" expanded="false" />
+            <element signature="e#8147#8148#0" expanded="false" />
+            <element signature="e#8172#8173#0" expanded="false" />
+            <element signature="e#8197#8198#0" expanded="false" />
+            <element signature="e#8222#8223#0" expanded="false" />
+            <element signature="e#8251#8252#0" expanded="false" />
+            <element signature="e#8270#8271#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jingch/UserUpdateInfoFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#679#680#0" expanded="false" />
+            <element signature="e#711#712#0" expanded="false" />
+            <element signature="e#3633#3634#0" expanded="false" />
+            <element signature="e#3663#3664#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jingch/UserLogInfoFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5505">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="e#4530#4531#0" expanded="false" />
+            <element signature="e#4561#4562#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/NullDiscrete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/jw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1471">
+          <caret line="71" column="28" lean-forward="false" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/BeginTextMiningWithPython/doc2vec.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="9" />
+          <selected id="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_predict.py">
+    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/wepe/evaluation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="115" lean-forward="false" selection-start-line="12" selection-start-column="97" selection-end-line="12" selection-end-column="115" />
-          <folding />
+        <state relative-caret-position="389">
+          <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/Leon_weibo_predict2.py">
+    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/wepe/predict_with_fixed_value.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        <state relative-caret-position="357">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/wepe/genUidStat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="9" column="68" lean-forward="false" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
           <folding>
-            <element signature="e#370#487#0" expanded="false" />
+            <element signature="e#64#74#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/sklearning/model_selection_train_test_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="54" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/sklearning/Cross_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#36#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_select/avg_featurescore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_select/sort_feature_using_xgb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="105" column="59" lean-forward="false" selection-start-line="105" selection-start-column="59" selection-end-line="105" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/city_feature.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/CityDiscrete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/CategoryFeatureProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="39" column="58" lean-forward="false" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/SelectFeature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="15" column="79" lean-forward="false" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/rank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_RiskControlCompetition-master/feature_engineering/CityFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/PPD_RiskControlCompetition-master/xgb/avg_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/wepon/PPD_Learn/null.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files (x86)/Python27/Lib/site-packages/redis/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="565" column="35" lean-forward="false" selection-start-line="565" selection-start-column="31" selection-end-line="565" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/BeginTextMiningWithPython/NLTK.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python2/DataTeamPvUv/Redis/SelectAndDelete12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1660">
-          <caret line="88" column="26" lean-forward="false" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+        <state relative-caret-position="118">
+          <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Test/Testa.py">
+    <entry file="file://$PROJECT_DIR$/Python3/CreateDataDic/creatDataDic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Test/Testb.py">
+    <entry file="file://$PROJECT_DIR$/Python3/BeginTextMiningWithPython/jieba.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/sklearn/linear_model_LogisticRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        <state relative-caret-position="60">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           <folding>
-            <element signature="e#298#317#0" expanded="true" />
+            <element signature="e#16#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/sklearn/linear_model_SGDClassifier.py">
+    <entry file="file://$PROJECT_DIR$/Python3/BeginTextMiningWithPython/Jieba.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/sklearning/linear_model_SGDClassifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -1452,41 +1899,13 @@
     </entry>
     <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/sklearn/metrics/classification.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26440">
-          <caret line="1341" column="55" lean-forward="false" selection-start-line="1340" selection-start-column="26" selection-end-line="1341" selection-end-column="55" />
+        <state relative-caret-position="449">
+          <caret line="1388" column="0" lean-forward="true" selection-start-line="1388" selection-start-column="0" selection-end-line="1388" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/sklearn/Metrics_classification_report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/sklearn/Svm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#58#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/sklearn/Metrics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/Test/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Python3/sklearning/Metrics_classification_report.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1494,21 +1913,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/sklearn/Classification_All.py">
+    <entry file="file://$PROJECT_DIR$/Python3/sklearning/Metrics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        <state relative-caret-position="620">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="65" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/sklearn/model_selection_train_test_split.py">
+    <entry file="file://$PROJECT_DIR$/Python3/sklearning/runTime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="32" column="69" lean-forward="true" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+        <state relative-caret-position="320">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/wepe/runTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/sklearn/naive_bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="34" column="23" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/Weibo_prediction/wepe/predict_by_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding>
+            <element signature="e#799#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/sklearning/naive_bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
