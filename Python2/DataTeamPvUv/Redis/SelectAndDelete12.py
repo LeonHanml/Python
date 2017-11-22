@@ -79,19 +79,19 @@ try:
     # print ttmaptest
     import re
 
-    # keys = r.keys(pattern='*2017-11-01*')
+    keys = r.keys(pattern='*2017-11-*')
     # keys = r.keys("*")
     # print len(keys)
-    goodsstore =  r.hgetall("goodsstore")
+    # goodsstore =  r.hgetall("goodsstore")
     # print goodsstore
     # for i in goodsstore:
     #     r.hdel("goodsstore",i)
-    listgoood = []
-    for i in goodsstore:
-        if i=='95414':
-            print i
-        # listgoood.append(i)
-            print goodsstore[i]
+    # listgoood = []
+    # for i in goodsstore:
+    #     if i=='95414':
+    #         print i
+    #     # listgoood.append(i)
+    #         print goodsstore[i]
     # listgoood.sort()
     # print len(listgoood)
     # setgood = set()
@@ -101,13 +101,13 @@ try:
     print r.dbsize()
     # print r.
     # print len(keys)
-    # for key in keys:
+    for key in keys:
         # if("11:tt5" in key):
-        # if(":2017-09-10" in key):
+        if(":2017-11-02" in key or  ":2017-11-01" in key  or ":2017-11-03" in key ):
         # if(key.endswith("11:tt5")):-
         #     print str(key)
         #     print r.get(key)
-        #     r.delete(key)
+            r.delete(key)
 
 except:
     print traceback.format_exc()
